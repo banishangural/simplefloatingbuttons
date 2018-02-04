@@ -1,0 +1,40 @@
+.circle{
+	position: fixed; /* or absolute */
+  top: 44%;
+  left: 43%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: red;
+  opacity: 0.6;
+}
+.circle1{
+	position: fixed; /* or absolute */
+  top: 49%;
+  left: 45%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: black;
+  opacity: 0.6;
+}
+.circle2{
+	position: fixed; /* or absolute */
+  top: 44%;
+  left: 48%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: grey;
+  opacity: 0.6;
+}
+.circle3{
+	position: fixed; /* or absolute */
+  top: 38%;
+  left: 45%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: yellow;
+  opacity: 0.6;
+}
